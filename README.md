@@ -6,6 +6,10 @@ This project maintains a structured database of races in YAML format and generat
 
 The goal is to maintain a personal bucket list of ultra trail races while automatically distributing updates through a calendar subscription.
 
+<p align="center">
+  <img src="media/Neustift_im_Stubaital__Nähe_Starkenburger_Hütte.jpg" alt="Ultra Calendar" width="960" />
+</p>
+
 ## Features
 
 * Simple YAML-based race database

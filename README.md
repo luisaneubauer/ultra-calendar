@@ -8,7 +8,7 @@ The goal is to maintain a personal bucket list of ultra trail races while automa
 
 <figure align="center">
   <a href="https://www.tyrol.com/activities/sport/trailrunning/trail-running-a-guide-to-getting-started">
-    <img src=".media/Neustift_im_Stubaital__Nähe_Starkenburger_Hütte.jpg" alt="Ultra Calendar banner" width="640" height="180" style="display: block; object-fit: cover; object-position: center;" />
+    <img src=".media/Neustift_im_Stubaital_Banner.jpg" alt="Ultra Calendar banner" width="640" height="180" style="display: block; object-fit: cover; object-position: center;" />
   </a>
   <figcaption>Source: <a href="https://www.tyrol.com/activities/sport/trailrunning/trail-running-a-guide-to-getting-started">Tyrol.com trail running guide</a></figcaption>
 </figure>

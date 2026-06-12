@@ -1,0 +1,16 @@
+# Virtual environment
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Generated output
+calendar.ics

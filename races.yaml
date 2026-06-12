@@ -1,0 +1,17 @@
+- name: UTMB
+  location: Chamonix, France
+  start_date: 2026-08-28
+  end_date: 2026-08-30
+  website: https://utmb.world
+  distance: 171 km
+  elevation: 10000 m
+  status: confirmed
+
+- name: Lavaredo Ultra Trail
+  location: Cortina d'Ampezzo, Italy
+  start_date: 2026-06-26
+  end_date: 2026-06-27
+  website: https://www.lavaredo.utmb.world
+  distance: 120 km
+  elevation: 5800 m
+  status: confirmed

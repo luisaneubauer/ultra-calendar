@@ -1,0 +1,23 @@
+countries:
+  AT: Austria
+  DE: Germany
+  IT: Italy
+
+categories:
+  include:
+    - 20k
+    - 50k
+    - 100k
+  exclude:
+    - 10k
+    - 100m
+
+name_abbreviations:
+  Zugspitz Ultra Trail: ZUT
+  Mozart 100 by UTMB®: M100
+  Innsbruck Alpine Trailrun Festival: IATF
+  Grossglockner Ultra-Trail: GGUT
+  Lavaredo Ultra Trail by UTMB®: LUT
+  Adamello Ultra Trail: AUT
+  Südtirol Ultra Skyrace: SUS
+  Transgrancanaria: TGC 

@@ -16,9 +16,17 @@ DATE_MAX = f"{date.today().year + 1}-12-31"
 
 CONFIG_FILE = Path("config.yaml")
 
-config = yaml.safe_load(CONFIG_FILE.read_text(encoding="utf-8"))
+config = yaml.safe_load(CONFIG_FILE.read_text(encoding="utf-8")) or {}
+
+if not config:
+    raise RuntimeError(
+        "config.yaml is empty or invalid. Please add countries, categories, "
+        "and name_abbreviations."
+    )
 
 ALLOWED_COUNTRIES = config["countries"]
+print(f"Allowed countries: {', '.join(ALLOWED_COUNTRIES.values())}")
+
 ALLOWED_CATEGORIES = set(config["categories"]["include"])
 EXCLUDED_CATEGORIES = set(config["categories"].get("exclude", []))
 NAME_ABBREVIATIONS = config.get("name_abbreviations", {})

@@ -6,12 +6,6 @@ This project maintains a structured database of races in YAML format and generat
 
 The goal is to maintain a personal bucket list of ultra trail races while automatically distributing updates through a calendar subscription.
 
-<figure align="center">
-  <a href="https://www.tyrol.com/activities/sport/trailrunning/trail-running-a-guide-to-getting-started">
-    <img src=".media/Neustift_im_Stubaital_Banner.jpg" alt="Ultra Calendar banner" width="640" />
-  </a>
-  <figcaption>Source: <a href="https://www.tyrol.com/activities/sport/trailrunning/trail-running-a-guide-to-getting-started">Tyrol.com trail running guide</a></figcaption>
-</figure>
 
 ## Features
 

@@ -14,11 +14,22 @@ OUTPUT_FILE = Path("races.yaml")
 DATE_MIN = date.today().isoformat()
 DATE_MAX = f"{date.today().year + 1}-12-31"
 
-ALLOWED_COUNTRIES = {"AT": "Austria", "DE": "Germany", "IT": "Italy"}
-ALLOWED_CATEGORIES = {"20k", "50k", "100k"}
+CONFIG_FILE = Path("config.yaml")
+
+config = yaml.safe_load(CONFIG_FILE.read_text(encoding="utf-8"))
+
+ALLOWED_COUNTRIES = config["countries"]
+ALLOWED_CATEGORIES = set(config["categories"]["include"])
+EXCLUDED_CATEGORIES = set(config["categories"].get("exclude", []))
+NAME_ABBREVIATIONS = config.get("name_abbreviations", {})
 
 LIMIT = 100
 
+def abbreviate_event_name(event_name: str) -> str:
+    for full_name, short_name in NAME_ABBREVIATIONS.items():
+        if full_name.lower() in event_name.lower():
+            return short_name
+    return event_name
 
 def parse_utmb_date(value: str) -> str:
     return datetime.strptime(value, "%Y-%b-%d").date().isoformat()
@@ -45,7 +56,8 @@ def normalize_race(race: dict) -> dict:
     country = ALLOWED_COUNTRIES[country_code]
 
     return {
-        "name": f"{race['eventName']} - {race['name']}",
+        "name": f"{abbreviate_event_name(race['eventName'])} - {race['name']}",
+        "event_name": race["eventName"],
         "location": race.get("startPlace") or country,
         "country": country,
         "country_code": country_code,

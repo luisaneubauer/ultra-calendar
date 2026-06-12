@@ -51,7 +51,7 @@ def make_event(race: dict) -> str:
     start = parse_date(race["start_date"])
     end = start + timedelta(days=1)
 
-    summary = race["name"]
+    summary = f"[{race.get('utmb_category', '')}] {race['name']}"
     location = race.get("location", "")
     description = make_description(race)
 

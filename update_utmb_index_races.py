@@ -28,6 +28,8 @@ ALLOWED_COUNTRIES = config["countries"]
 print(f"Allowed countries: {', '.join(ALLOWED_COUNTRIES.values())}")
 
 ALLOWED_CATEGORIES = set(config["categories"]["include"])
+print(f"Included categories: {', '.join(ALLOWED_CATEGORIES)}")
+
 EXCLUDED_CATEGORIES = set(config["categories"].get("exclude", []))
 NAME_ABBREVIATIONS = config.get("name_abbreviations", {})
 

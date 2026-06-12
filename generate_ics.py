@@ -1,97 +1,97 @@
-from datetime import datetime, date, timedelta
-from pathlib import Path
+from __future__ import annotations
+
 import hashlib
+from datetime import datetime, timedelta
+from pathlib import Path
+
 import yaml
 
 
 INPUT_FILE = Path("races.yaml")
 OUTPUT_FILE = Path("calendar.ics")
-CALENDAR_NAME = "Ultra Trail Races"
+CALENDAR_NAME = "UTMB Index Races AT/DE/IT"
 
 
-def escape_ics(text: str) -> str:
+def escape_ics(value: object) -> str:
+    text = "" if value is None else str(value)
     return (
-        str(text)
-        .replace("\\", "\\\\")
+        text.replace("\\", "\\\\")
         .replace(";", "\\;")
         .replace(",", "\\,")
         .replace("\n", "\\n")
     )
 
 
-def parse_date(value) -> date:
-    if isinstance(value, date):
-        return value
-    return datetime.strptime(str(value), "%Y-%m-%d").date()
+def parse_date(value: str) -> datetime:
+    return datetime.strptime(value, "%Y-%m-%d")
 
 
 def make_uid(race: dict) -> str:
-    raw = f"{race['name']}|{race.get('location', '')}|{race['start_date']}"
-    digest = hashlib.sha256(raw.encode("utf-8")).hexdigest()[:16]
+    raw = f"{race.get('utmb_race_id')}|{race.get('start_date')}|{race.get('name')}"
+    digest = hashlib.sha256(raw.encode("utf-8")).hexdigest()[:20]
     return f"{digest}@ultra-calendar"
 
 
-def format_ics_date(d: date) -> str:
-    return d.strftime("%Y%m%d")
+def make_description(race: dict) -> str:
+    parts = [
+        f"Country: {race.get('country', '')}",
+        f"Category: {race.get('utmb_category', '')}",
+        f"Distance: {race.get('distance', '')}",
+        f"Elevation: {race.get('elevation', '')}",
+        f"UTMB level: {race.get('utmb_level', '')}",
+        f"UTMB stones: {race.get('utmb_stones', '')}",
+        f"Website: {race.get('website', '')}",
+        f"Source: {race.get('source_url', '')}",
+        f"Last checked: {race.get('last_checked', '')}",
+    ]
+    return "\\n".join(part for part in parts if not part.endswith(": "))
 
 
-def create_event(race: dict) -> str:
+def make_event(race: dict) -> str:
     start = parse_date(race["start_date"])
+    end = start + timedelta(days=1)
 
-    # ICS all-day event end dates are exclusive.
-    if race.get("end_date"):
-        end = parse_date(race["end_date"]) + timedelta(days=1)
-    else:
-        end = start + timedelta(days=1)
+    summary = race["name"]
+    location = race.get("location", "")
+    description = make_description(race)
 
-    description_parts = []
-
-    if race.get("distance"):
-        description_parts.append(f"Distance: {race['distance']}")
-    if race.get("elevation"):
-        description_parts.append(f"Elevation: {race['elevation']}")
-    if race.get("status"):
-        description_parts.append(f"Status: {race['status']}")
-    if race.get("website"):
-        description_parts.append(f"Website: {race['website']}")
-
-    description = "\\n".join(description_parts)
-
-    return "\n".join([
-        "BEGIN:VEVENT",
-        f"UID:{make_uid(race)}",
-        f"DTSTAMP:{datetime.utcnow().strftime('%Y%m%dT%H%M%SZ')}",
-        f"SUMMARY:{escape_ics(race['name'])}",
-        f"DTSTART;VALUE=DATE:{format_ics_date(start)}",
-        f"DTEND;VALUE=DATE:{format_ics_date(end)}",
-        f"LOCATION:{escape_ics(race.get('location', ''))}",
-        f"DESCRIPTION:{escape_ics(description)}",
-        f"URL:{escape_ics(race.get('website', ''))}",
-        "END:VEVENT",
-    ])
+    return "\n".join(
+        [
+            "BEGIN:VEVENT",
+            f"UID:{make_uid(race)}",
+            f"DTSTAMP:{datetime.utcnow().strftime('%Y%m%dT%H%M%SZ')}",
+            f"SUMMARY:{escape_ics(summary)}",
+            f"DTSTART;VALUE=DATE:{start.strftime('%Y%m%d')}",
+            f"DTEND;VALUE=DATE:{end.strftime('%Y%m%d')}",
+            f"LOCATION:{escape_ics(location)}",
+            f"DESCRIPTION:{escape_ics(description)}",
+            f"URL:{escape_ics(race.get('website', ''))}",
+            "END:VEVENT",
+        ]
+    )
 
 
 def main() -> None:
-    with INPUT_FILE.open("r", encoding="utf-8") as f:
-        races = yaml.safe_load(f)
+    races = yaml.safe_load(INPUT_FILE.read_text(encoding="utf-8")) or []
 
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
-        "PRODID:-//Ultra Calendar//EN",
+        "PRODID:-//Ultra Calendar//UTMB Index Races//EN",
         "CALSCALE:GREGORIAN",
         "METHOD:PUBLISH",
         f"X-WR-CALNAME:{escape_ics(CALENDAR_NAME)}",
+        "X-WR-TIMEZONE:Europe/Berlin",
     ]
 
     for race in races:
-        lines.append(create_event(race))
+        lines.append(make_event(race))
 
     lines.append("END:VCALENDAR")
 
     OUTPUT_FILE.write_text("\n".join(lines) + "\n", encoding="utf-8")
-    print(f"Wrote {OUTPUT_FILE}")
+    print(f"Wrote {len(races)} events to {OUTPUT_FILE}")
 
 
 if __name__ == "__main__":
-    main() 
+    main()

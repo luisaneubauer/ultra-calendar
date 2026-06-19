@@ -44,7 +44,7 @@ def make_description(race: dict) -> str:
         f"Source: {race.get('source_url', '')}",
         f"Last checked: {race.get('last_checked', '')}",
     ]
-    return "\\n".join(part for part in parts if not part.endswith(": "))
+    return "\n".join(part for part in parts if not part.endswith(": "))
 
 
 def make_event(race: dict) -> str:

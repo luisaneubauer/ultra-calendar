@@ -1,435 +1,3 @@
-- name: FALKE Rothaarsteig-Marathon - FALKE Rothaarsteig-Halb-Marathon
-  event_name: FALKE Rothaarsteig-Marathon
-  location: 57392 Fleckenberg, Germany
-  country: Germany
-  country_code: DE
-  start_date: '2026-10-17'
-  website: https://rothaarsteig-marathon.de/
-  distance: 22.60 km
-  elevation: 420 m
-  utmb_category: 20K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 141492
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: FALKE Rothaarsteig-Marathon - FALKE Rothaarsteig-Marathon
-  event_name: FALKE Rothaarsteig-Marathon
-  location: Fleckenberg, Germany
-  country: Germany
-  country_code: DE
-  start_date: '2026-10-17'
-  website: https://rothaarsteig-marathon.de/
-  distance: 42.20 km
-  elevation: 838 m
-  utmb_category: 50K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 141474
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: RunThrough Trails Berchtesgaden - 12K
-  event_name: RunThrough Trails Berchtesgaden
-  location: Berchtesgaden , Germany
-  country: Germany
-  country_code: DE
-  start_date: '2026-10-17'
-  website: https://www.runthroughtrails.com/berchtesgaden/
-  distance: 12.00 km
-  elevation: 809 m
-  utmb_category: 20K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 147496
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: RunThrough Trails Berchtesgaden - 26K
-  event_name: RunThrough Trails Berchtesgaden
-  location: Berchtesgaden , Germany
-  country: Germany
-  country_code: DE
-  start_date: '2026-10-17'
-  website: https://www.runthroughtrails.com/berchtesgaden/
-  distance: 26.00 km
-  elevation: 1789 m
-  utmb_category: 20K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 147494
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: RunThrough Trails Berchtesgaden - 44K
-  event_name: RunThrough Trails Berchtesgaden
-  location: Berchtesgaden, Germany
-  country: Germany
-  country_code: DE
-  start_date: '2026-10-17'
-  website: https://www.runthroughtrails.com/berchtesgaden/
-  distance: 44.70 km
-  elevation: 2933 m
-  utmb_category: 50K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 147492
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: XTERRA O-SEE Trail - O-SEE  Ultra 100K
-  event_name: XTERRA O-SEE Trail
-  location: Kurort Oybin /Naturpark Zittauer Gebirge, Germany
-  country: Germany
-  country_code: DE
-  start_date: '2026-10-17'
-  website: https://en.o-see-ultratrail.de/
-  distance: 100.81 km
-  elevation: 3636 m
-  utmb_category: 100K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 142574
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: XTERRA O-SEE Trail - O-SEE 16K
-  event_name: XTERRA O-SEE Trail
-  location: Kurort Oybin/Naturpark Zittauer Gebirge, Germany
-  country: Germany
-  country_code: DE
-  start_date: '2026-10-17'
-  website: https://en.o-see-ultratrail.de/
-  distance: 16.10 km
-  elevation: 503 m
-  utmb_category: 20K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 142570
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: XTERRA O-SEE Trail - O-SEE 25K
-  event_name: XTERRA O-SEE Trail
-  location: Kurort Oybin/Naturpark Zittauer Gebirge, Germany
-  country: Germany
-  country_code: DE
-  start_date: '2026-10-17'
-  website: https://en.o-see-ultratrail.de/
-  distance: 25.40 km
-  elevation: 1150 m
-  utmb_category: 20K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 142568
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: XTERRA O-SEE Trail - O-SEE 25K Team
-  event_name: XTERRA O-SEE Trail
-  location: Kurort Oybin /Naturpark Zittauer Gebirge, Germany
-  country: Germany
-  country_code: DE
-  start_date: '2026-10-17'
-  website: https://en.o-see-ultratrail.de/
-  distance: 25.40 km
-  elevation: 1150 m
-  utmb_category: 20K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 142566
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: XTERRA O-SEE Trail - O-SEE 50K
-  event_name: XTERRA O-SEE Trail
-  location: Kurort Oybin /Naturpark Zittauer Gebirge, Germany
-  country: Germany
-  country_code: DE
-  start_date: '2026-10-17'
-  website: https://en.o-see-ultratrail.de/
-  distance: 51.00 km
-  elevation: 2340 m
-  utmb_category: 50K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 142564
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: XTERRA O-SEE Trail - O-SEE 50K Team
-  event_name: XTERRA O-SEE Trail
-  location: Kurort Oybin /Naturpark Zittauer Gebirge, Germany
-  country: Germany
-  country_code: DE
-  start_date: '2026-10-17'
-  website: https://en.o-see-ultratrail.de/
-  distance: 51.00 km
-  elevation: 2340 m
-  utmb_category: 50K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 142572
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: XTERRA O-SEE Trail - O-SEE Ultra 100K DUO
-  event_name: XTERRA O-SEE Trail
-  location: Kurort Oybin /Naturpark Zittauer Gebirge, Germany
-  country: Germany
-  country_code: DE
-  start_date: '2026-10-17'
-  website: https://en.o-see-ultratrail.de/
-  distance: 100.81 km
-  elevation: 3636 m
-  utmb_category: 100K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 142576
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: XTERRA O-SEE Trail - O-SEE Ultra 75k
-  event_name: XTERRA O-SEE Trail
-  location: Kurort Oybin /Naturpark Zittauer Gebirge, Germany
-  country: Germany
-  country_code: DE
-  start_date: '2026-10-17'
-  website: https://en.o-see-ultratrail.de/
-  distance: 75.42 km
-  elevation: 2806 m
-  utmb_category: 100K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 142578
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: XTERRA O-SEE Trail - O-SEE Ultra 75k DUO
-  event_name: XTERRA O-SEE Trail
-  location: Kurort Oybin /Naturpark Zittauer Gebirge, Germany
-  country: Germany
-  country_code: DE
-  start_date: '2026-10-17'
-  website: https://en.o-see-ultratrail.de/
-  distance: 75.42 km
-  elevation: 2806 m
-  utmb_category: 100K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 142580
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: TRAIL DEL MARRONE - TDM 2026 - 23km
-  event_name: TRAIL DEL MARRONE
-  location: Castel del Rio, Italy
-  country: Italy
-  country_code: IT
-  start_date: '2026-10-17'
-  website: https://www.traildelmarrone.com
-  distance: 23.00 km
-  elevation: 1200 m
-  utmb_category: 20K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 152542
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: Ultra Trail Lago d'Orta - UTLO 34km
-  event_name: Ultra Trail Lago d'Orta
-  location: Omegna, Italy
-  country: Italy
-  country_code: IT
-  start_date: '2026-10-17'
-  website: https://www.ultratraillo.com
-  distance: 34.00 km
-  elevation: 1720 m
-  utmb_category: 50K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 147770
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: Ultra Trail Lago d'Orta - UTLO 58km
-  event_name: Ultra Trail Lago d'Orta
-  location: Omegna, Italy
-  country: Italy
-  country_code: IT
-  start_date: '2026-10-17'
-  website: https://www.ultratraillo.com
-  distance: 57.76 km
-  elevation: 3653 m
-  utmb_category: 50K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 147766
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: L'Alba dei Marsi - SRM - Sky Race del Maglio
-  event_name: L'Alba dei Marsi
-  location: Magliano de’ Marsi, Italy
-  country: Italy
-  country_code: IT
-  start_date: '2026-10-18'
-  website: https://www.albadeimarsi.it
-  distance: 31.20 km
-  elevation: 2090 m
-  utmb_category: 50K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 150980
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: Panoramic Trail - 17k
-  event_name: Panoramic Trail
-  location: 37018 malcesine VR, Italy
-  country: Italy
-  country_code: IT
-  start_date: '2026-10-18'
-  website: https://www.usmontebaldo.it/
-  distance: 17.00 km
-  elevation: 1051 m
-  utmb_category: 20K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 142928
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: Panoramic Trail - 30k
-  event_name: Panoramic Trail
-  location: 37018 malcesine VR, Italy
-  country: Italy
-  country_code: IT
-  start_date: '2026-10-18'
-  website: https://www.usmontebaldo.it/
-  distance: 29.75 km
-  elevation: 2320 m
-  utmb_category: 50K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 142930
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: Panoramic Trail - 46k
-  event_name: Panoramic Trail
-  location: 37018 malcesine VR, Italy
-  country: Italy
-  country_code: IT
-  start_date: '2026-10-18'
-  website: https://www.usmontebaldo.it/
-  distance: 45.80 km
-  elevation: 3500 m
-  utmb_category: 50K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 142926
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: Piglione Trail - Long Piglione Trail
-  event_name: Piglione Trail
-  location: San Rocco in Turrite - Pescaglia - LU, Italy
-  country: Italy
-  country_code: IT
-  start_date: '2026-10-18'
-  website: https://www.piglionetrail.it
-  distance: 36.00 km
-  elevation: 2000 m
-  utmb_category: 50K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 142298
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: Piglione Trail - Short Piglione Trail
-  event_name: Piglione Trail
-  location: San Rocco in Turrite - Pescaglia - LU, Italy
-  country: Italy
-  country_code: IT
-  start_date: '2026-10-18'
-  website: https://www.piglionetrail.it
-  distance: 19.00 km
-  elevation: 1100 m
-  utmb_category: 20K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 142296
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: Piglione Trail - Ultra Piglione Trail
-  event_name: Piglione Trail
-  location: San Rocco in Turrite - Pescaglia - LU, Italy
-  country: Italy
-  country_code: IT
-  start_date: '2026-10-18'
-  website: https://www.piglionetrail.it
-  distance: 56.00 km
-  elevation: 3200 m
-  utmb_category: 50K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 142294
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: Trail del Diamante - Memorial Cristiano Capelli - Trail del Diamante 24K
-  event_name: Trail del Diamante - Memorial Cristiano Capelli
-  location: Genova, Italy
-  country: Italy
-  country_code: IT
-  start_date: '2026-10-18'
-  website: https://traildeldiamante.it/
-  distance: 24.00 km
-  elevation: 1300 m
-  utmb_category: 20K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 144618
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: Trail del Diamante - Memorial Cristiano Capelli - Ultra del Diamante 45K
-  event_name: Trail del Diamante - Memorial Cristiano Capelli
-  location: Genova, Italy
-  country: Italy
-  country_code: IT
-  start_date: '2026-10-18'
-  website: https://traildeldiamante.it/
-  distance: 45.00 km
-  elevation: 2500 m
-  utmb_category: 50K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 144616
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: Ultra Trail Lago d'Orta - UTLO 21km
-  event_name: Ultra Trail Lago d'Orta
-  location: Omegna, Italy
-  country: Italy
-  country_code: IT
-  start_date: '2026-10-18'
-  website: https://www.ultratraillo.com
-  distance: 21.10 km
-  elevation: 980 m
-  utmb_category: 20K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 147768
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
 - name: Valle dei Segni Wine Trail - Valle dei Segni Wine Half Trail
   event_name: Valle dei Segni Wine Trail
   location: Piancogno, Italy
@@ -445,7 +13,7 @@
   utmb_race_id: 153244
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Valle dei Segni Wine Trail - Valle dei Segni Wine Trail
   event_name: Valle dei Segni Wine Trail
   location: Capo di Ponte, Italy
@@ -461,7 +29,7 @@
   utmb_race_id: 153246
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Bellagio Half Skyrace - Bellagio Half Skyrace
   event_name: Bellagio Half Skyrace
   location: Bellagio, Italy
@@ -477,7 +45,7 @@
   utmb_race_id: 158880
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Bellagio Skyrace - Bellagio Skyrace
   event_name: Bellagio Skyrace
   location: Bellagio, Italy
@@ -493,7 +61,39 @@
   utmb_race_id: 158878
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
+- name: Canossa Trail Marathon - Castello di Canossa KM24
+  event_name: Canossa Trail Marathon
+  location: Vezzano Sul Crostolo (RE), Italy
+  country: Italy
+  country_code: IT
+  start_date: '2026-10-25'
+  website: https://www.canossatrailmarathon.it/
+  distance: 24.00 km
+  elevation: 1150 m
+  utmb_category: 20K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 159546
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
+- name: Canossa Trail Marathon - Castello di Rossena KM42
+  event_name: Canossa Trail Marathon
+  location: Vezzano Sul Crostolo (RE), Italy
+  country: Italy
+  country_code: IT
+  start_date: '2026-10-25'
+  website: https://www.canossatrailmarathon.it/
+  distance: 42.00 km
+  elevation: 2100 m
+  utmb_category: 50K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 159548
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
 - name: 'PUGLIA BY UTMB® - Castellaneta Underground Trail  '
   event_name: PUGLIA BY UTMB®
   location: Castellaneta, Italy
@@ -509,7 +109,7 @@
   utmb_race_id: 147946
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: PUGLIA BY UTMB® - Ginosa Rivolta Trail
   event_name: PUGLIA BY UTMB®
   location: Ginosa, Italy
@@ -525,7 +125,7 @@
   utmb_race_id: 147944
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: TRAIL MONTE CASTO - 20 KM
   event_name: TRAIL MONTE CASTO
   location: Andorno Micca, Italy
@@ -541,7 +141,7 @@
   utmb_race_id: 141852
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: TRAIL MONTE CASTO - 44 KM
   event_name: TRAIL MONTE CASTO
   location: Andorno Micca, Italy
@@ -557,7 +157,7 @@
   utmb_race_id: 141854
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Trail del Cinghiale - Trail del Cinghiale 100
   event_name: Trail del Cinghiale
   location: Palazzuolo sul Senio, Italy
@@ -573,7 +173,7 @@
   utmb_race_id: 143246
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Trail del Cinghiale - Trail del Cinghiale 20
   event_name: Trail del Cinghiale
   location: Palazzuolo sul Senio, Italy
@@ -589,7 +189,7 @@
   utmb_race_id: 143250
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Trail del Cinghiale - Trail del Cinghiale 35
   event_name: Trail del Cinghiale
   location: Palazzuolo sul Senio, Italy
@@ -605,7 +205,7 @@
   utmb_race_id: 143248
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Trail del Cinghiale - Trail del Cinghiale 50
   event_name: Trail del Cinghiale
   location: Palazzuolo sul Senio, Italy
@@ -621,7 +221,7 @@
   utmb_race_id: 143252
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: LAVENO SKYTRAIL - 15K SKYTRAIL LAVENO
   event_name: LAVENO SKYTRAIL
   location: laveno, Italy
@@ -637,7 +237,7 @@
   utmb_race_id: 157932
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: LAVENO SKYTRAIL - 24K SKYTRAIL LAVENO
   event_name: LAVENO SKYTRAIL
   location: laveno, Italy
@@ -653,7 +253,7 @@
   utmb_race_id: 157930
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Valtellina Wine Trail - Valtellina Wine Trail 21km
   event_name: Valtellina Wine Trail
   location: Chiuro, Italy
@@ -669,7 +269,7 @@
   utmb_race_id: 138086
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Valtellina Wine Trail - Valtellina Wine Trail 42km
   event_name: Valtellina Wine Trail
   location: Tirano, Italy
@@ -685,7 +285,7 @@
   utmb_race_id: 138084
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Martin Mountain Festival - Martin Skyrace Extreme
   event_name: Martin Mountain Festival
   location: Mele - Acquasanta, Italy
@@ -701,7 +301,7 @@
   utmb_race_id: 141450
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: TRAIL DI PORTOFINO - Ritorna La Più Bella
   event_name: TRAIL DI PORTOFINO
   location: Santa Margherita Ligure, Italy
@@ -717,7 +317,7 @@
   utmb_race_id: 151710
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: TRAIL DI PORTOFINO - TRAIL DI PORTOFINO
   event_name: TRAIL DI PORTOFINO
   location: Santa Margherita Ligure, Italy
@@ -733,7 +333,7 @@
   utmb_race_id: 151714
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Trail sui Sentieri dei Santi - TSSDS - 7° Trail sui Sentieri dei Santi
   event_name: Trail sui Sentieri dei Santi
   location: Subiaco, Italy
@@ -749,7 +349,7 @@
   utmb_race_id: 137158
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: WINTER TARSOGNO TRAIL - WINTER TARSOGNO TRAIL wtt  25K
   event_name: WINTER TARSOGNO TRAIL
   location: TARSOGNO (TORNOLO), Italy
@@ -765,7 +365,7 @@
   utmb_race_id: 146116
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Valmalone Trail - Fandaja Trail
   event_name: Valmalone Trail
   location: Barbania , Italy
@@ -781,7 +381,7 @@
   utmb_race_id: 158156
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: 'Valmalone Trail - Valmalone Trail '
   event_name: Valmalone Trail
   location: Barbania, Italy
@@ -797,7 +397,7 @@
   utmb_race_id: 158154
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Piccolo Trail delle Bregonze - Piccolo Trail delle Bregonze - Challenge
   event_name: Piccolo Trail delle Bregonze
   location: Carrè, Italy
@@ -813,7 +413,7 @@
   utmb_race_id: 152950
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Piccolo Trail delle Bregonze - Piccolo Trail delle Bregonze - Extreme
   event_name: Piccolo Trail delle Bregonze
   location: Carrè, Italy
@@ -829,7 +429,7 @@
   utmb_race_id: 152948
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Murgeopark Trail Experince - Murgeopark Trail Experince
   event_name: Murgeopark Trail Experince
   location: Corato, Italy
@@ -845,7 +445,7 @@
   utmb_race_id: 151916
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: KoBoLT - KoBoLT K99
   event_name: KoBoLT
   location: Rengsdorf, Germany
@@ -861,7 +461,7 @@
   utmb_race_id: 149222
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: 'KoBoLT - KoBoLT K73 '
   event_name: KoBoLT
   location: Bonn, Germany
@@ -877,7 +477,7 @@
   utmb_race_id: 149224
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Garfagnana Epic - Garfagnana EPIC Trail - Winter Edition
   event_name: Garfagnana Epic
   location: Casone di Profecchia (LU), Italy
@@ -893,7 +493,7 @@
   utmb_race_id: 156056
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: MOUNTAINMAN Nikolaus-Trail Pommelsbrunn - L-Trail
   event_name: MOUNTAINMAN Nikolaus-Trail Pommelsbrunn
   location: Pommelsbrunn, Germany
@@ -909,7 +509,7 @@
   utmb_race_id: 139726
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: MOUNTAINMAN Nikolaus-Trail Pommelsbrunn - M-Trail
   event_name: MOUNTAINMAN Nikolaus-Trail Pommelsbrunn
   location: Pommelsbrunn, Germany
@@ -925,7 +525,7 @@
   utmb_race_id: 139728
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: MOUNTAINMAN Nikolaus-Trail Pommelsbrunn - XL-Trail
   event_name: MOUNTAINMAN Nikolaus-Trail Pommelsbrunn
   location: Pommelsbrunn, Germany
@@ -941,23 +541,7 @@
   utmb_race_id: 139724
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
-- name: TRAIL DEL CIAPA' - TRAIL DEL CIAPA'
-  event_name: TRAIL DEL CIAPA'
-  location: CERVO (IM), Italy
-  country: Italy
-  country_code: IT
-  start_date: '2026-12-06'
-  website: https://www.dianeseoutdoor.com/
-  distance: 30.00 km
-  elevation: 1100 m
-  utmb_category: 20K
-  utmb_level: qualifier
-  utmb_stones: 0
-  utmb_race_id: 158768
-  source: UTMB Index Races
-  source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: TRAIL DEL CIAPA' - TRAIL DEL CIAPA'
   event_name: TRAIL DEL CIAPA'
   location: CERVO (IM), Italy
@@ -973,7 +557,23 @@
   utmb_race_id: 159206
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
+- name: TRAIL DEL CIAPA' - TRAIL DEL CIAPA'
+  event_name: TRAIL DEL CIAPA'
+  location: CERVO (IM), Italy
+  country: Italy
+  country_code: IT
+  start_date: '2026-12-06'
+  website: https://www.dianeseoutdoor.com/
+  distance: 21.00 km
+  elevation: 800 m
+  utmb_category: 20K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 158768
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
 - name: Ultrabericus Winter - Ultrabericus Winter Integrale
   event_name: Ultrabericus Winter
   location: Torri di Arcugnano, Italy
@@ -989,7 +589,7 @@
   utmb_race_id: 158166
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Ultrabericus Winter - Ultrabericus Winter Speed
   event_name: Ultrabericus Winter
   location: Torri di Arcugnano, Italy
@@ -1005,7 +605,7 @@
   utmb_race_id: 158168
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Garda Trentino Xmas Trail - Xmas Trail
   event_name: Garda Trentino Xmas Trail
   location: Torbole sul Garda, Italy
@@ -1021,7 +621,7 @@
   utmb_race_id: 157720
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Garda Trentino Xmas Trail - Xmas Trail XS
   event_name: Garda Trentino Xmas Trail
   location: Torbole sul Garda, Italy
@@ -1037,7 +637,7 @@
   utmb_race_id: 157722
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: 'X-Mas Trail - Brian Trail '
   event_name: X-Mas Trail
   location: Weißkirchen, Germany
@@ -1053,7 +653,7 @@
   utmb_race_id: 138102
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: 'X-Mas Trail - Ruprecht Trail '
   event_name: X-Mas Trail
   location: Weißkirchen, Germany
@@ -1069,7 +669,7 @@
   utmb_race_id: 138098
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: 'X-Mas Trail - X-MAS Trail '
   event_name: X-Mas Trail
   location: Weißkirchen, Germany
@@ -1085,7 +685,7 @@
   utmb_race_id: 138100
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: AREZZO WILD TRAIL - WILD MARATHON 42K
   event_name: AREZZO WILD TRAIL
   location: Arezzo, Italy
@@ -1101,7 +701,7 @@
   utmb_race_id: 140526
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: AREZZO WILD TRAIL - WILD TRAIL 23K
   event_name: AREZZO WILD TRAIL
   location: Arezzo, Italy
@@ -1117,7 +717,7 @@
   utmb_race_id: 140528
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Tabernulae Trail - Tabernulae Trail
   event_name: Tabernulae Trail
   location: Tavarnelle Val di Pesa, Italy
@@ -1133,7 +733,7 @@
   utmb_race_id: 154340
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: S1 Trail La Corsa Della Bora - S1 Bora Ultra
   event_name: S1 Trail La Corsa Della Bora
   location: Trieste, Italy
@@ -1149,7 +749,7 @@
   utmb_race_id: 143802
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: S1 Trail La Corsa Della Bora - S1 Trieste Ultra
   event_name: S1 Trail La Corsa Della Bora
   location: Trieste, Italy
@@ -1165,7 +765,7 @@
   utmb_race_id: 143804
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: S1 Trail La Corsa Della Bora - S1 Borderlesstrail
   event_name: S1 Trail La Corsa Della Bora
   location: Monrupino, Italy
@@ -1181,7 +781,7 @@
   utmb_race_id: 143796
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: S1 Trail La Corsa Della Bora - S1 HalfTrail
   event_name: S1 Trail La Corsa Della Bora
   location: Sistiana, Italy
@@ -1197,7 +797,7 @@
   utmb_race_id: 143806
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: S1 Trail La Corsa Della Bora - S1 TransKarst Ultra
   event_name: S1 Trail La Corsa Della Bora
   location: Barcola, Italy
@@ -1213,7 +813,39 @@
   utmb_race_id: 143798
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
+- name: EcoRun Collis - Ecorun Collis
+  event_name: EcoRun Collis
+  location: Monteforte D'Alpone, Italy
+  country: Italy
+  country_code: IT
+  start_date: '2027-01-16'
+  website: https://www.montefortiana.org/ecorun
+  distance: 25.98 km
+  elevation: 936 m
+  utmb_category: 20K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 159976
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
+- name: Ecomaratona Clivus - Ecomaratona Clivus
+  event_name: Ecomaratona Clivus
+  location: Monteforte D'Alpone, Italy
+  country: Italy
+  country_code: IT
+  start_date: '2027-01-16'
+  website: https://www.montefortiana.org/ecomaratona
+  distance: 49.25 km
+  elevation: 1985 m
+  utmb_category: 50K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 159984
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
 - name: MOUNTAINMAN Winterloop Reit im Winkl - Halbmarathon Winterloop-Challenge
   event_name: MOUNTAINMAN Winterloop Reit im Winkl
   location: Reit im Winkl, Germany
@@ -1229,7 +861,7 @@
   utmb_race_id: 151906
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: MOUNTAINMAN Winterloop Reit im Winkl - Marathon Winterloop-Challenge
   event_name: MOUNTAINMAN Winterloop Reit im Winkl
   location: Reit im Winkl, Germany
@@ -1245,7 +877,7 @@
   utmb_race_id: 151908
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Bosco Sacro Trail - Bosco Sacro Trail
   event_name: Bosco Sacro Trail
   location: Lugo di Vicenza, Italy
@@ -1261,7 +893,7 @@
   utmb_race_id: 156350
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Winter Trail Monte Prealba - HARD
   event_name: Winter Trail Monte Prealba
   location: Bione (BS), Italy
@@ -1277,7 +909,7 @@
   utmb_race_id: 151598
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Winter Trail Monte Prealba - SOFTLY HARD
   event_name: Winter Trail Monte Prealba
   location: Bione (BS), Italy
@@ -1293,7 +925,7 @@
   utmb_race_id: 151600
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Winter Trail Monte Prealba - Ultra Marathon
   event_name: Winter Trail Monte Prealba
   location: Bione (BS), Italy
@@ -1309,7 +941,7 @@
   utmb_race_id: 151602
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: ALPE ADRIA SNOW TRAIL - Alpe Adria Dogna Crossing
   event_name: ALPE ADRIA SNOW TRAIL
   location: Dogna, Italy
@@ -1325,7 +957,7 @@
   utmb_race_id: 154356
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: ALPE ADRIA SNOW TRAIL - Alpe Adria Saisera Crossing
   event_name: ALPE ADRIA SNOW TRAIL
   location: Valbruna, Italy
@@ -1341,7 +973,7 @@
   utmb_race_id: 154358
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Valmaremola Trail ed.15 - Val Maremola Long Trail ed.15
   event_name: Valmaremola Trail ed.15
   location: Pietra Ligure, Italy
@@ -1357,7 +989,7 @@
   utmb_race_id: 150134
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Valmaremola Trail ed.15 - Val Maremola Medium Trail ed.2
   event_name: Valmaremola Trail ed.15
   location: Pietra Ligure, Italy
@@ -1373,7 +1005,7 @@
   utmb_race_id: 150136
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Valmaremola Trail ed.15 - Val Maremola Short Trail ed.11
   event_name: Valmaremola Trail ed.15
   location: Pietra Ligure, Italy
@@ -1389,7 +1021,7 @@
   utmb_race_id: 150138
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Valmaremola Trail ed.15 - Val Maremola Trail Ultra ed.4
   event_name: Valmaremola Trail ed.15
   location: Pietra Ligure, Italy
@@ -1405,7 +1037,7 @@
   utmb_race_id: 150132
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Winter Brich Trail - WINTER BRICH TRAIL 23 KM
   event_name: Winter Brich Trail
   location: Valdengo, Italy
@@ -1421,7 +1053,7 @@
   utmb_race_id: 158944
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Campo dei Fiori Trail - CFT 40K
   event_name: Campo dei Fiori Trail
   location: gavirate, Italy
@@ -1437,7 +1069,7 @@
   utmb_race_id: 157946
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Campo dei Fiori Trail - CFT 50K
   event_name: Campo dei Fiori Trail
   location: gavirate, Italy
@@ -1453,7 +1085,7 @@
   utmb_race_id: 157944
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Campo dei Fiori Trail - CFT 70K
   event_name: Campo dei Fiori Trail
   location: Gavirate, Italy
@@ -1469,7 +1101,23 @@
   utmb_race_id: 157950
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
+- name: Antico Trail del Contrabbandiere - 24K
+  event_name: Antico Trail del Contrabbandiere
+  location: Pove del Grappa, Italy
+  country: Italy
+  country_code: IT
+  start_date: '2027-03-07'
+  website: https://www.trailcontrabbandiere.com/
+  distance: 24.00 km
+  elevation: 1200 m
+  utmb_category: 20K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 159886
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
 - name: Campo dei Fiori Trail - CFT 15K
   event_name: Campo dei Fiori Trail
   location: Gavirate, Italy
@@ -1485,7 +1133,7 @@
   utmb_race_id: 157952
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Campo dei Fiori Trail - CFT 30K
   event_name: Campo dei Fiori Trail
   location: gavirate, Italy
@@ -1501,7 +1149,7 @@
   utmb_race_id: 157948
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: 'Chianti Ultra Trail by UTMB® - Chianti Ultra Trail '
   event_name: Chianti Ultra Trail by UTMB®
   location: Radda in Chianti, Italy
@@ -1517,7 +1165,7 @@
   utmb_race_id: 147995
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: 'Chianti Ultra Trail by UTMB® - Chianti Half Trail '
   event_name: Chianti Ultra Trail by UTMB®
   location: Gaiole in Chianti, Italy
@@ -1533,7 +1181,7 @@
   utmb_race_id: 147997
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: JUNUT Jurasteig Nonstop Ultratrail - JUNUT 104
   event_name: JUNUT Jurasteig Nonstop Ultratrail
   location: 92345 Dietfurt, Germany
@@ -1549,7 +1197,7 @@
   utmb_race_id: 153644
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: 'Genova Trail  - Genova City Trail '
   event_name: 'Genova Trail '
   location: Genova, Italy
@@ -1565,7 +1213,7 @@
   utmb_race_id: 159418
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: 'Genova Trail  - Genova Trail Marathon '
   event_name: 'Genova Trail '
   location: Genova , Italy
@@ -1581,7 +1229,7 @@
   utmb_race_id: 159420
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Rosalia Trail Challenge - Rosalia Pro
   event_name: Rosalia Trail Challenge
   location: Katzelsdorf/Leitha, Austria
@@ -1597,7 +1245,7 @@
   utmb_race_id: 157760
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Rosalia Trail Challenge - Rosalia Sprint
   event_name: Rosalia Trail Challenge
   location: Katzelsdorf/Leitha, Austria
@@ -1613,7 +1261,7 @@
   utmb_race_id: 157754
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Rosalia Trail Challenge - Rosalia Ultra
   event_name: Rosalia Trail Challenge
   location: Katzelsdorf/Leitha, Austria
@@ -1629,7 +1277,7 @@
   utmb_race_id: 157758
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Rosalia Trail Challenge - Rosalia Ultra Pro
   event_name: Rosalia Trail Challenge
   location: Katzelsdorf/Leitha, Austria
@@ -1645,7 +1293,7 @@
   utmb_race_id: 157756
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: 'Alpenplus Ötzi Trailrun Naturns - Naturns Skyrace '
   event_name: Alpenplus Ötzi Trailrun Naturns
   location: Naturns, Italy
@@ -1661,7 +1309,7 @@
   utmb_race_id: 158610
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Alpenplus Ötzi Trailrun Naturns - Sunny Mountain Trail
   event_name: Alpenplus Ötzi Trailrun Naturns
   location: Naturns, Italy
@@ -1677,7 +1325,7 @@
   utmb_race_id: 158606
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Alpenplus Ötzi Trailrun Naturns - Ötzi-Ultra Trail
   event_name: Alpenplus Ötzi Trailrun Naturns
   location: Naturns, Italy
@@ -1693,7 +1341,7 @@
   utmb_race_id: 158614
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Elbe trail challenge - Elbe trail challenge
   event_name: Elbe trail challenge
   location: Porto-Ferraio, Italy
@@ -1709,7 +1357,7 @@
   utmb_race_id: 150866
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: MAUNìK TRAIL - MAUNìK TRAIL
   event_name: MAUNìK TRAIL
   location: FAEDIS (UDINE), Italy
@@ -1725,7 +1373,55 @@
   utmb_race_id: 149456
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
+- name: Rureifel-Trail - RET22
+  event_name: Rureifel-Trail
+  location: Nideggen, Germany
+  country: Germany
+  country_code: DE
+  start_date: '2027-04-17'
+  website: https://www.rureifel-trail.com/
+  distance: 22.60 km
+  elevation: 820 m
+  utmb_category: 20K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 159634
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
+- name: Rureifel-Trail - RET44+
+  event_name: Rureifel-Trail
+  location: Nideggen, Germany
+  country: Germany
+  country_code: DE
+  start_date: '2027-04-17'
+  website: https://www.rureifel-trail.com/
+  distance: 47.30 km
+  elevation: 2000 m
+  utmb_category: 50K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 159640
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
+- name: Rureifel-Trail - RET77
+  event_name: Rureifel-Trail
+  location: Nideggen, Germany
+  country: Germany
+  country_code: DE
+  start_date: '2027-04-17'
+  website: https://www.rureifel-trail.com/
+  distance: 78.10 km
+  elevation: 3040 m
+  utmb_category: 100K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 159638
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
 - name: Tuscany Crossing - 53 km
   event_name: Tuscany Crossing
   location: Castiglione d'Orcia, Italy
@@ -1741,7 +1437,7 @@
   utmb_race_id: 154934
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Trail del Diavolo - Trail del Diavolo Giro Lungo "Malebolgia"
   event_name: Trail del Diavolo
   location: Lanzo Torinese (TO), Italy
@@ -1757,7 +1453,7 @@
   utmb_race_id: 156212
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Trail del Diavolo - Trail del Diavolo Giro Medio "Mefistofele"
   event_name: Trail del Diavolo
   location: Lanzo Torinese (TO), Italy
@@ -1773,7 +1469,7 @@
   utmb_race_id: 156210
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: SALOMON Ultratrail Fränkische Schweiz - Shorttrail
   event_name: SALOMON Ultratrail Fränkische Schweiz
   location: Ebermannstadt, Germany
@@ -1789,7 +1485,7 @@
   utmb_race_id: 151972
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: SALOMON Ultratrail Fränkische Schweiz - Ultratrail
   event_name: SALOMON Ultratrail Fränkische Schweiz
   location: Ebermannstadt, Germany
@@ -1805,7 +1501,7 @@
   utmb_race_id: 151968
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: SALOMON Ultratrail Fränkische Schweiz - Longtrail
   event_name: SALOMON Ultratrail Fränkische Schweiz
   location: Ebermannstadt, Germany
@@ -1821,7 +1517,7 @@
   utmb_race_id: 151964
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: SALOMON Ultratrail Fränkische Schweiz - Speedtrail
   event_name: SALOMON Ultratrail Fränkische Schweiz
   location: Ebermannstadt, Germany
@@ -1837,7 +1533,7 @@
   utmb_race_id: 151962
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: UP THE HILL - UTH25
   event_name: UP THE HILL
   location: Albstadt, Germany
@@ -1853,7 +1549,7 @@
   utmb_race_id: 156492
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: UP THE HILL - UTH50
   event_name: UP THE HILL
   location: Albstadt, Germany
@@ -1869,7 +1565,7 @@
   utmb_race_id: 156494
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: MALCESINE BALDO TRAIL - 26K Medium
   event_name: MALCESINE BALDO TRAIL
   location: Malcesine, Italy
@@ -1885,7 +1581,7 @@
   utmb_race_id: 159160
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: MALCESINE BALDO TRAIL - 41k Marathon
   event_name: MALCESINE BALDO TRAIL
   location: Malcesine, Italy
@@ -1901,7 +1597,7 @@
   utmb_race_id: 159166
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: MALCESINE BALDO TRAIL - 60k Ultra
   event_name: MALCESINE BALDO TRAIL
   location: Malcesine, Italy
@@ -1917,7 +1613,7 @@
   utmb_race_id: 159164
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: TRAIL DELLE 2 AQUILE - T2A TRAIL CORTO
   event_name: TRAIL DELLE 2 AQUILE
   location: Ronco Scrivia, Italy
@@ -1933,7 +1629,7 @@
   utmb_race_id: 156946
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: TRAIL DELLE 2 AQUILE - T2A TRAIL LUNGO
   event_name: TRAIL DELLE 2 AQUILE
   location: Ronco Scrivia, Italy
@@ -1949,7 +1645,7 @@
   utmb_race_id: 156092
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: TRAIL DELLE 2 AQUILE - T2A TRAIL MEDIO
   event_name: TRAIL DELLE 2 AQUILE
   location: Ronco Scrivia, Italy
@@ -1965,7 +1661,7 @@
   utmb_race_id: 156094
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: MALCESINE BALDO TRAIL - 16K SHORT
   event_name: MALCESINE BALDO TRAIL
   location: Malcesine, Italy
@@ -1981,7 +1677,7 @@
   utmb_race_id: 159162
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: 'Skyrace del Voltigno  - Skymarathon del Voltigno '
   event_name: 'Skyrace del Voltigno '
   location: Villa Celiera , Italy
@@ -1997,7 +1693,7 @@
   utmb_race_id: 155580
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: 'Skyrace del Voltigno  - Skyrun del Voltigno '
   event_name: 'Skyrace del Voltigno '
   location: Villa Celiera , Italy
@@ -2013,7 +1709,7 @@
   utmb_race_id: 155578
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Skyrace del Voltigno  - Voltigno Ultra Sky
   event_name: 'Skyrace del Voltigno '
   location: Villa Celiera , Italy
@@ -2029,7 +1725,7 @@
   utmb_race_id: 155582
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Ultra Trail Du Temple - King
   event_name: Ultra Trail Du Temple
   location: San Vito Lo Capo -Tp, Italy
@@ -2045,7 +1741,7 @@
   utmb_race_id: 145470
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Wörthersee Trail Festival  - 32k Speed
   event_name: 'Wörthersee Trail Festival '
   location: Maria Wörth, Austria
@@ -2061,7 +1757,7 @@
   utmb_race_id: 156404
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Wörthersee Trail Festival  - 65k Ultra
   event_name: 'Wörthersee Trail Festival '
   location: Pörtschach, Austria
@@ -2077,7 +1773,7 @@
   utmb_race_id: 156402
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: MOUNTAINMAN Nesselwang - L-Trail
   event_name: MOUNTAINMAN Nesselwang
   location: Nesselwang, Germany
@@ -2093,7 +1789,7 @@
   utmb_race_id: 156830
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: MOUNTAINMAN Nesselwang - M-Trail
   event_name: MOUNTAINMAN Nesselwang
   location: Nesselwang, Germany
@@ -2109,7 +1805,7 @@
   utmb_race_id: 156832
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: MOUNTAINMAN Nesselwang - XL-Trail
   event_name: MOUNTAINMAN Nesselwang
   location: Nesselwang, Germany
@@ -2125,7 +1821,7 @@
   utmb_race_id: 156828
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: MOUNTAINMAN Nesselwang - XXL-Trail
   event_name: MOUNTAINMAN Nesselwang
   location: Nesselwang, Germany
@@ -2141,7 +1837,7 @@
   utmb_race_id: 156826
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: North Sea Ultra - Sylt - North Sea Ultra - 2-persons relay
   event_name: North Sea Ultra - Sylt
   location: Kampen, Germany
@@ -2157,7 +1853,7 @@
   utmb_race_id: 156084
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: North Sea Ultra - Sylt - North Sea Ultra - 3-persons relay
   event_name: North Sea Ultra - Sylt
   location: Kampen, Germany
@@ -2173,7 +1869,7 @@
   utmb_race_id: 156076
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: North Sea Ultra - Sylt - North Sea Ultra Relay - 2 Person Relay - Stage 1
   event_name: North Sea Ultra - Sylt
   location: Kampen, Germany
@@ -2189,7 +1885,7 @@
   utmb_race_id: 156082
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: North Sea Ultra - Sylt - North Sea Ultra Relay - 2 Person Relay - Stage 2
   event_name: North Sea Ultra - Sylt
   location: Kampen, Germany
@@ -2205,7 +1901,7 @@
   utmb_race_id: 156086
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: North Sea Ultra - Sylt - North Sea Ultra Relay - 3 Person Relay - Stage 1
   event_name: North Sea Ultra - Sylt
   location: Kampen, Germany
@@ -2221,7 +1917,7 @@
   utmb_race_id: 156072
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: North Sea Ultra - Sylt - North Sea Ultra Relay - 3 Person Relay - Stage 2
   event_name: North Sea Ultra - Sylt
   location: Kampen, Germany
@@ -2237,7 +1933,7 @@
   utmb_race_id: 156080
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: North Sea Ultra - Sylt - North Sea Ultra Relay - 3 Person Relay - Stage 3
   event_name: North Sea Ultra - Sylt
   location: Kampen, Germany
@@ -2253,7 +1949,7 @@
   utmb_race_id: 156078
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: North Sea Ultra - Sylt - North Sea Ultra Sylt
   event_name: North Sea Ultra - Sylt
   location: Kampen, Germany
@@ -2269,7 +1965,7 @@
   utmb_race_id: 156074
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: UTLAC Trail - UTLAC 60k - Lake Como Grand Trail
   event_name: UTLAC Trail
   location: Como, Italy
@@ -2285,7 +1981,7 @@
   utmb_race_id: 159432
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Ultra Trail Du Temple - Centurion
   event_name: Ultra Trail Du Temple
   location: Segesta Temple - Calatafimi, Italy
@@ -2301,7 +1997,7 @@
   utmb_race_id: 145476
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Ultra Trail Du Temple - General
   event_name: Ultra Trail Du Temple
   location: Segesta Temple - Calatafimi, Italy
@@ -2317,7 +2013,39 @@
   utmb_race_id: 145472
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
+- name: Kandern Trail Masters - KTM 35KM Trail
+  event_name: Kandern Trail Masters
+  location: Kandern, Germany
+  country: Germany
+  country_code: DE
+  start_date: '2027-05-09'
+  website: https://www.kandern-trail-masters.de/
+  distance: 36.00 km
+  elevation: 1150 m
+  utmb_category: 20K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 159914
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
+- name: Kandern Trail Masters - KTM 65KM Trail
+  event_name: Kandern Trail Masters
+  location: Kandern, Germany
+  country: Germany
+  country_code: DE
+  start_date: '2027-05-09'
+  website: https://www.kandern-trail-masters.de/
+  distance: 65.00 km
+  elevation: 2280 m
+  utmb_category: 50K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 159912
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
 - name: NeckarCross-Ultrarace - NeckarCross-Ultrarace
   event_name: NeckarCross-Ultrarace
   location: Hirschhorn, Germany
@@ -2333,7 +2061,7 @@
   utmb_race_id: 154940
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Montanaro Trail - Montanaro Trail La25
   event_name: Montanaro Trail
   location: San Marcello P/se (PT), Italy
@@ -2349,7 +2077,7 @@
   utmb_race_id: 150730
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Montanaro Trail - Montanaro Trail La50
   event_name: Montanaro Trail
   location: San Marcello P/se (PT), Italy
@@ -2365,7 +2093,7 @@
   utmb_race_id: 150732
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: UTLAC Trail - UTLAC 15k - Lake Como Short Trail
   event_name: UTLAC Trail
   location: Lecco, Italy
@@ -2381,7 +2109,7 @@
   utmb_race_id: 159430
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: UTLAC Trail - UTLAC 30k - LAKE COMO TRAIL
   event_name: UTLAC Trail
   location: Bellagio, Italy
@@ -2397,7 +2125,7 @@
   utmb_race_id: 159428
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: La Sportiva Garda Trentino Trail - Garda Trentino Trail EXTRA
   event_name: La Sportiva Garda Trentino Trail
   location: ARCO, Italy
@@ -2413,7 +2141,7 @@
   utmb_race_id: 157714
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: 'FENERA TRAIL - PERCORSO GREEN '
   event_name: FENERA TRAIL
   location: VALDUGGIA, Italy
@@ -2429,7 +2157,7 @@
   utmb_race_id: 154746
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: FENERA TRAIL - PERCORSO ORANGE
   event_name: FENERA TRAIL
   location: VALDUGGIA, Italy
@@ -2445,7 +2173,7 @@
   utmb_race_id: 154744
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: La Sportiva Garda Trentino Trail - Garda Trentino Trail
   event_name: La Sportiva Garda Trentino Trail
   location: Arco, Italy
@@ -2461,7 +2189,7 @@
   utmb_race_id: 157716
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: La Sportiva Garda Trentino Trail - Ledro Trail
   event_name: La Sportiva Garda Trentino Trail
   location: Ledro, Italy
@@ -2477,7 +2205,7 @@
   utmb_race_id: 157718
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: La Sportiva Garda Trentino Trail - Tenno Trail
   event_name: La Sportiva Garda Trentino Trail
   location: Arco, Italy
@@ -2493,7 +2221,7 @@
   utmb_race_id: 157712
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Trail Dei Monti Simbruini - LTMS - Long Trail dei Monti Simbruini
   event_name: Trail Dei Monti Simbruini
   location: Campo dell'Osso - Subiaco (Roma), Italy
@@ -2509,7 +2237,7 @@
   utmb_race_id: 149666
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Trail Dei Monti Simbruini - MTMS - Medium Trail dei Monti Simbruini
   event_name: Trail Dei Monti Simbruini
   location: Campo dell'Osso - Subiaco (Roma), Italy
@@ -2525,7 +2253,7 @@
   utmb_race_id: 149668
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Loch Trail Cup - Run Of Legends - Loch Trail Cup - Run Of Legends 100K
   event_name: Loch Trail Cup - Run Of Legends
   location: Roana, Italy
@@ -2541,7 +2269,7 @@
   utmb_race_id: 152098
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Loch Trail Cup - Run Of Legends - Loch Trail Cup - Run Of Legends 25K
   event_name: Loch Trail Cup - Run Of Legends
   location: Roana, Italy
@@ -2557,7 +2285,7 @@
   utmb_race_id: 152102
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Loch Trail Cup - Run Of Legends - Loch Trail Cup - Run Of Legends 50K
   event_name: Loch Trail Cup - Run Of Legends
   location: Roana, Italy
@@ -2573,7 +2301,7 @@
   utmb_race_id: 152100
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Loch Trail Cup - Run Of Legends - Loch Trail Cup - Run Of Legends 15K
   event_name: Loch Trail Cup - Run Of Legends
   location: Roana, Italy
@@ -2589,7 +2317,7 @@
   utmb_race_id: 152104
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: 6. HoWUT-2027 ( HochWaldTrail) - HochwaldTrail 2027
   event_name: 6. HoWUT-2027 ( HochWaldTrail)
   location: Osann-Monzel, Germany
@@ -2605,7 +2333,55 @@
   utmb_race_id: 150940
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
+- name: 'Seen-Lauf Tannheimer Tal  - 3 Hütten Trail '
+  event_name: 'Seen-Lauf Tannheimer Tal '
+  location: Nesselwängle , Austria
+  country: Austria
+  country_code: AT
+  start_date: '2027-05-29'
+  website: https://www.instagram.com/seenlauf?srtk=MTNjN2xpN3M2MjhtcQ==
+  distance: 12.50 km
+  elevation: 780 m
+  utmb_category: 20K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 159374
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
+- name: 'Seen-Lauf Tannheimer Tal  - 6 Hütten Trail '
+  event_name: 'Seen-Lauf Tannheimer Tal '
+  location: Nesselwängle, Austria
+  country: Austria
+  country_code: AT
+  start_date: '2027-05-29'
+  website: https://www.instagram.com/seenlauf?srtk=MTNjN2xpN3M2MjhtcQ==
+  distance: 25.00 km
+  elevation: 1600 m
+  utmb_category: 20K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 159372
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
+- name: 'Seen-Lauf Tannheimer Tal  - Seen-Lauf Haldensee&Vilsalpsee '
+  event_name: 'Seen-Lauf Tannheimer Tal '
+  location: Nesselwängle, Austria
+  country: Austria
+  country_code: AT
+  start_date: '2027-05-29'
+  website: https://www.instagram.com/seenlauf?srtk=MTNjN2xpN3M2MjhtcQ==
+  distance: 26.50 km
+  elevation: 200 m
+  utmb_category: 20K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 159376
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
 - name: 6. HoWUT-2027 ( HochWaldTrail) - HochwaldTrail 2027
   event_name: 6. HoWUT-2027 ( HochWaldTrail)
   location: Osburg, Germany
@@ -2621,7 +2397,7 @@
   utmb_race_id: 150942
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: 6. HoWUT-2027 ( HochWaldTrail) - HochwaldTrail 2027
   event_name: 6. HoWUT-2027 ( HochWaldTrail)
   location: Osburg, Germany
@@ -2637,7 +2413,7 @@
   utmb_race_id: 150944
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Trail Run Alta Valtellina - Trail Run Alta Valtellina
   event_name: Trail Run Alta Valtellina
   location: Arnoga, Italy
@@ -2653,7 +2429,7 @@
   utmb_race_id: 156668
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: MOUNTAINMAN Stagerun & Trail Festival Berchtesgaden - MOUNTAINMAN Watz Ultimate
   event_name: MOUNTAINMAN Stagerun & Trail Festival Berchtesgaden
   location: Berchtesgaden, Germany
@@ -2669,7 +2445,7 @@
   utmb_race_id: 156716
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Top Dolomites Trail Run - TRAIL ULTRA 102KM
   event_name: Top Dolomites Trail Run
   location: Pinzolo, Italy
@@ -2685,7 +2461,7 @@
   utmb_race_id: 151910
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: mozart 100 by UTMB - mozart Half Marathon
   event_name: mozart 100 by UTMB
   location: Koppl, Austria
@@ -2701,7 +2477,7 @@
   utmb_race_id: 152024
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: mozart 100 by UTMB - mozart Marathon
   event_name: mozart 100 by UTMB
   location: Faistenau, Austria
@@ -2717,7 +2493,7 @@
   utmb_race_id: 152022
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: mozart 100 by UTMB - mozart Ultra
   event_name: mozart 100 by UTMB
   location: St. Gilgen, Austria
@@ -2733,7 +2509,7 @@
   utmb_race_id: 152020
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: MOUNTAINMAN Stagerun & Trail Festival Berchtesgaden - MOUNTAINMAN Watz Double
   event_name: MOUNTAINMAN Stagerun & Trail Festival Berchtesgaden
   location: Bischofswiesen, Germany
@@ -2749,7 +2525,7 @@
   utmb_race_id: 156722
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Dolomites Saslong Half Marathon - Dolomites Saslong Half Marathon
   event_name: Dolomites Saslong Half Marathon
   location: Monte Pana - S.Cristina, Italy
@@ -2765,7 +2541,7 @@
   utmb_race_id: 154244
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Top Dolomites Trail Run - TRAIL 22KM
   event_name: Top Dolomites Trail Run
   location: Pinzolo, Italy
@@ -2781,7 +2557,7 @@
   utmb_race_id: 151894
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Top Dolomites Trail Run - TRAIL 40KM
   event_name: Top Dolomites Trail Run
   location: Pinzolo, Italy
@@ -2797,7 +2573,7 @@
   utmb_race_id: 151912
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Top Dolomites Trail Run - TRAIL ULTRA 50KM
   event_name: Top Dolomites Trail Run
   location: Pinzolo, Italy
@@ -2813,7 +2589,7 @@
   utmb_race_id: 151892
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Top Dolomites Trail Run - TRAIL ULTRA 70KM
   event_name: Top Dolomites Trail Run
   location: Pinzolo, Italy
@@ -2829,7 +2605,7 @@
   utmb_race_id: 151898
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: MOUNTAINMAN Stagerun & Trail Festival Berchtesgaden - WATZ Final
   event_name: MOUNTAINMAN Stagerun & Trail Festival Berchtesgaden
   location: Ramsau, Germany
@@ -2845,7 +2621,7 @@
   utmb_race_id: 156728
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Dolomiti Extreme Trail - 103K
   event_name: Dolomiti Extreme Trail
   location: Val di Zoldo, Italy
@@ -2861,7 +2637,7 @@
   utmb_race_id: 152418
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Dolomiti Extreme Trail - 72K
   event_name: Dolomiti Extreme Trail
   location: Val di Zoldo, Italy
@@ -2877,7 +2653,7 @@
   utmb_race_id: 152426
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Dolomiti Extreme Trail - 35k
   event_name: Dolomiti Extreme Trail
   location: Val di Zoldo, Italy
@@ -2893,7 +2669,7 @@
   utmb_race_id: 152420
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Dolomiti Extreme Trail - 55K
   event_name: Dolomiti Extreme Trail
   location: Val di Zoldo, Italy
@@ -2909,7 +2685,7 @@
   utmb_race_id: 152416
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Dolomiti Extreme Trail - 22k
   event_name: Dolomiti Extreme Trail
   location: Val di Zoldo, Italy
@@ -2925,7 +2701,7 @@
   utmb_race_id: 152424
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: ZUT - Ehrwald Trail
   event_name: Zugspitz Ultra Trail by UTMB
   location: Ehrwald, Germany
@@ -2941,7 +2717,7 @@
   utmb_race_id: 155257
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: ZUT - Garmisch-Partenkirchen Trail
   event_name: Zugspitz Ultra Trail by UTMB
   location: Garmisch-Partenkirchen, Germany
@@ -2957,7 +2733,7 @@
   utmb_race_id: 155263
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: ZUT - Ultratrail
   event_name: Zugspitz Ultra Trail by UTMB
   location: Garmisch-Partenkirchen, Germany
@@ -2973,7 +2749,7 @@
   utmb_race_id: 155255
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: ZUT - Grainau Trail
   event_name: Zugspitz Ultra Trail by UTMB
   location: Grainau, Germany
@@ -2989,7 +2765,7 @@
   utmb_race_id: 155265
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: ZUT - Leutasch Trail
   event_name: Zugspitz Ultra Trail by UTMB
   location: Leutasch, Germany
@@ -3005,7 +2781,7 @@
   utmb_race_id: 155259
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: ZUT - Mittenwald Trail
   event_name: Zugspitz Ultra Trail by UTMB
   location: Mittenwald, Germany
@@ -3021,7 +2797,7 @@
   utmb_race_id: 155261
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Alpe Adria Ultra - Alpe Adria Jôf Trail
   event_name: Alpe Adria Ultra
   location: Dogna, Italy
@@ -3037,7 +2813,7 @@
   utmb_race_id: 154346
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Alpe Adria Ultra - Alpe Adria Lussari
   event_name: Alpe Adria Ultra
   location: Valbruna, Italy
@@ -3053,7 +2829,7 @@
   utmb_race_id: 154350
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Alpe Adria Ultra - Alpe Adria Montasio
   event_name: Alpe Adria Ultra
   location: Dogna, Italy
@@ -3069,7 +2845,7 @@
   utmb_race_id: 154354
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: LUT - Lavaredo 20K
   event_name: Lavaredo Ultra Trail by UTMB®
   location: Cortina d'Ampezzo, Italy
@@ -3085,7 +2861,7 @@
   utmb_race_id: 154639
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: LUT - Lavaredo 50K
   event_name: Lavaredo Ultra Trail by UTMB®
   location: Cortina d’Ampezzo, Italy
@@ -3101,7 +2877,7 @@
   utmb_race_id: 154641
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: LUT - Lavaredo 80K
   event_name: Lavaredo Ultra Trail by UTMB®
   location: Val Marzon Auronzo di Cadore, Italy
@@ -3117,7 +2893,7 @@
   utmb_race_id: 154643
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Ceresole Reale Sky & Trail Running Day - Ai piedi delle Levanne Skyrace
   event_name: Ceresole Reale Sky & Trail Running Day
   location: Ceresole Reale , Italy
@@ -3133,7 +2909,7 @@
   utmb_race_id: 159192
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Ceresole Reale Sky & Trail Running Day - Energy Trail
   event_name: Ceresole Reale Sky & Trail Running Day
   location: Ceresole Reale , Italy
@@ -3149,7 +2925,7 @@
   utmb_race_id: 159194
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: 'Ceresole Reale Sky & Trail Running Day - Gran Paradiso Ultra SkyMarathon '
   event_name: Ceresole Reale Sky & Trail Running Day
   location: Ceresole Reale , Italy
@@ -3165,7 +2941,7 @@
   utmb_race_id: 159196
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Monte Rosa WalserWaeg by UTMB - Gressoney Lys Trail
   event_name: Monte Rosa WalserWaeg by UTMB
   location: Gressoney-La-Trinité, Italy
@@ -3181,7 +2957,7 @@
   utmb_race_id: 155088
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Monte Rosa WalserWaeg by UTMB - Monte Rosa Trail
   event_name: Monte Rosa WalserWaeg by UTMB
   location: Pont-Saint-Martin, Italy
@@ -3197,7 +2973,7 @@
   utmb_race_id: 154226
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: 'Monte Rosa WalserWaeg by UTMB - Walserwaeg Trail '
   event_name: Monte Rosa WalserWaeg by UTMB
   location: Gressoney-Saint-Jean, Italy
@@ -3213,7 +2989,7 @@
   utmb_race_id: 154220
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Monte Rosa WalserWaeg by UTMB - Regina Margherita Trail
   event_name: Monte Rosa WalserWaeg by UTMB
   location: Gressoney-Saint-Jean, Italy
@@ -3229,7 +3005,7 @@
   utmb_race_id: 154224
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Cortina 56-26 The Legacy Trail  - Cortina 26K
   event_name: 'Cortina 56-26 The Legacy Trail '
   location: Cortina d'Ampezzo, Italy
@@ -3245,7 +3021,7 @@
   utmb_race_id: 159410
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Cortina 56-26 The Legacy Trail  - Cortina 56K
   event_name: 'Cortina 56-26 The Legacy Trail '
   location: Cortina d'Ampezzo, Italy
@@ -3261,7 +3037,7 @@
   utmb_race_id: 159408
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Karawanken Löwen Trail / Hike - Karawanken Löwen Trail 35k
   event_name: Karawanken Löwen Trail / Hike
   location: Bodental, Austria
@@ -3277,7 +3053,7 @@
   utmb_race_id: 157036
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Karawanken Löwen Trail / Hike - Karawanken Löwen Trail 25k
   event_name: Karawanken Löwen Trail / Hike
   location: Feistritz im Rosental, Austria
@@ -3293,7 +3069,7 @@
   utmb_race_id: 157038
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: KAT100 by UTMB® - Endurance Trail
   event_name: KAT100 by UTMB®
   location: Kitzbühel, Austria
@@ -3309,7 +3085,7 @@
   utmb_race_id: 156571
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: KAT100 by UTMB® - Marathon Trail
   event_name: KAT100 by UTMB®
   location: Fieberbrunn, Austria
@@ -3325,7 +3101,7 @@
   utmb_race_id: 156573
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: KAT100 by UTMB® - Speed Trail
   event_name: KAT100 by UTMB®
   location: Fieberbrunn, Austria
@@ -3341,7 +3117,7 @@
   utmb_race_id: 156575
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Hunsbuckel-Trail - HalfTrail 27Km
   event_name: Hunsbuckel-Trail
   location: 56288 Laubach, Germany
@@ -3357,7 +3133,7 @@
   utmb_race_id: 156006
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Hunsbuckel-Trail - LongTrail 47k
   event_name: Hunsbuckel-Trail
   location: 56288 Laubach , Germany
@@ -3373,7 +3149,55 @@
   utmb_race_id: 156002
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
+- name: Arlberg Ultra - Arlberg Classic 40km
+  event_name: Arlberg Ultra
+  location: Lech, Austria
+  country: Austria
+  country_code: AT
+  start_date: '2027-08-20'
+  website: https://www.arlberg-ultra.com/de
+  distance: 40.00 km
+  elevation: 2580 m
+  utmb_category: 50K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 157554
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
+- name: 'Arlberg Ultra - Arlberg Ultra 60KM '
+  event_name: Arlberg Ultra
+  location: St. Anton, Austria
+  country: Austria
+  country_code: AT
+  start_date: '2027-08-20'
+  website: https://www.arlberg-ultra.com/de
+  distance: 60.00 km
+  elevation: 3704 m
+  utmb_category: 50K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 157580
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
+- name: Arlberg Ultra - Lech Trail 20KM
+  event_name: Arlberg Ultra
+  location: Lech, Austria
+  country: Austria
+  country_code: AT
+  start_date: '2027-08-20'
+  website: https://www.arlberg-ultra.com/de
+  distance: 25.00 km
+  elevation: 1410 m
+  utmb_category: 20K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 157582
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
 - name: MOUNTAINMAN Grossarltal  - L-Trail
   event_name: 'MOUNTAINMAN Grossarltal '
   location: Grossarl, Austria
@@ -3389,7 +3213,7 @@
   utmb_race_id: 156816
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: MOUNTAINMAN Grossarltal  - M-Trail
   event_name: 'MOUNTAINMAN Grossarltal '
   location: Grossarl, Austria
@@ -3405,7 +3229,7 @@
   utmb_race_id: 156824
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: MOUNTAINMAN Grossarltal  - S-Trail
   event_name: 'MOUNTAINMAN Grossarltal '
   location: Grossarl, Austria
@@ -3421,7 +3245,7 @@
   utmb_race_id: 156820
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: MOUNTAINMAN Grossarltal  - XL-Trail
   event_name: 'MOUNTAINMAN Grossarltal '
   location: Grossarl, Austria
@@ -3437,7 +3261,7 @@
   utmb_race_id: 156814
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: MOUNTAINMAN Grossarltal  - XXL-Trail
   event_name: 'MOUNTAINMAN Grossarltal '
   location: Großarl, Austria
@@ -3453,7 +3277,7 @@
   utmb_race_id: 156822
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Torlauf Dachstein - Skyrace Torlauf Dachstein
   event_name: Torlauf Dachstein
   location: Ramsau am Dachstein, Austria
@@ -3469,7 +3293,7 @@
   utmb_race_id: 156930
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Torlauf Dachstein - Torlauf Dachstein Halbmarathon
   event_name: Torlauf Dachstein
   location: Ramsau am Dachstein, Austria
@@ -3485,7 +3309,7 @@
   utmb_race_id: 156926
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Torlauf Dachstein - Torlauf Dachstein Marathon
   event_name: Torlauf Dachstein
   location: Ramsau am Dachstein, Austria
@@ -3501,7 +3325,7 @@
   utmb_race_id: 156924
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Torlauf Dachstein - Torlauf Dachstein Ultra
   event_name: Torlauf Dachstein
   location: Ramsau am Dachstein, Austria
@@ -3517,7 +3341,7 @@
   utmb_race_id: 156928
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: adidas INFINITE TRAILS - 15K RUN
   event_name: adidas INFINITE TRAILS
   location: Bad Hofgastein, Austria
@@ -3533,7 +3357,7 @@
   utmb_race_id: 156680
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: adidas INFINITE TRAILS - 30K Individual
   event_name: adidas INFINITE TRAILS
   location: Bad Hofgastein, Austria
@@ -3549,7 +3373,7 @@
   utmb_race_id: 156674
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: adidas INFINITE TRAILS - 45K Individual
   event_name: adidas INFINITE TRAILS
   location: Bad Hofgastein, Austria
@@ -3565,7 +3389,7 @@
   utmb_race_id: 156682
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: adidas INFINITE TRAILS - 60K individual
   event_name: adidas INFINITE TRAILS
   location: Bad Hofgastein, Austria
@@ -3581,7 +3405,7 @@
   utmb_race_id: 156678
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: adidas INFINITE TRAILS - Team Loop L
   event_name: adidas INFINITE TRAILS
   location: Bad Hofgastein, Austria
@@ -3597,7 +3421,7 @@
   utmb_race_id: 156672
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: adidas INFINITE TRAILS - Team Loop M
   event_name: adidas INFINITE TRAILS
   location: Bad Hofgastein, Austria
@@ -3613,7 +3437,7 @@
   utmb_race_id: 156676
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: adidas INFINITE TRAILS - Team Loop S
   event_name: adidas INFINITE TRAILS
   location: Bad Hofgastein, Austria
@@ -3629,7 +3453,7 @@
   utmb_race_id: 156670
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: WILDMAN Harz - WILDMAN Classic
   event_name: WILDMAN Harz
   location: Wildemann, Germany
@@ -3645,7 +3469,7 @@
   utmb_race_id: 159346
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: WILDMAN Harz - WILDMAN Pro
   event_name: WILDMAN Harz
   location: Wildemann, Germany
@@ -3661,7 +3485,7 @@
   utmb_race_id: 159350
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: WILDMAN Harz - WILDMAN Fun
   event_name: WILDMAN Harz
   location: Wildemann, Germany
@@ -3677,7 +3501,7 @@
   utmb_race_id: 159348
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: WILDMAN Harz - WILDMAN Ultra
   event_name: WILDMAN Harz
   location: Wildemann, Germany
@@ -3693,7 +3517,7 @@
   utmb_race_id: 159344
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: BraunenBerg-Trail - Rollladen-Kaiser-BraunenBerg-Trail
   event_name: BraunenBerg-Trail
   location: Aalen Besucherbergwerk Tiefer Stollen, Germany
@@ -3709,7 +3533,7 @@
   utmb_race_id: 157940
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Jurassic Miles Endurance Run - Jurassic Miles 23K
   event_name: Jurassic Miles Endurance Run
   location: Rovereto, Italy
@@ -3725,7 +3549,7 @@
   utmb_race_id: 157860
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: Jurassic Miles Endurance Run - Jurassic Miles 50M
   event_name: Jurassic Miles Endurance Run
   location: Rovereto, Italy
@@ -3741,7 +3565,39 @@
   utmb_race_id: 157858
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
+- name: Bettona Crossing - Bettona Crossing 20K
+  event_name: Bettona Crossing
+  location: Bettona, Italy
+  country: Italy
+  country_code: IT
+  start_date: '2027-09-25'
+  website: http://www.umbriacrossing.com
+  distance: 20.00 km
+  elevation: 870 m
+  utmb_category: 20K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 159982
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
+- name: Bettona Crossing - Bettona Crossing 50K
+  event_name: Bettona Crossing
+  location: Bettona (Pg), Italy
+  country: Italy
+  country_code: IT
+  start_date: '2027-09-25'
+  website: http://www.umbriacrossing.com
+  distance: 50.00 km
+  elevation: 2100 m
+  utmb_category: 50K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 159980
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
 - name: DELICIOUS TRAIL DOLOMITI - 43K
   event_name: DELICIOUS TRAIL DOLOMITI
   location: CORTINA D'AMPEZZO, Italy
@@ -3757,7 +3613,7 @@
   utmb_race_id: 159392
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: DELICIOUS TRAIL DOLOMITI - DELICIOUS TRAIL DOLOMITI SHORT
   event_name: DELICIOUS TRAIL DOLOMITI
   location: CORTINA D'AMPEZZO, Italy
@@ -3773,7 +3629,7 @@
   utmb_race_id: 159394
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: DELICIOUS TRAIL DOLOMITI - Medium 35k
   event_name: DELICIOUS TRAIL DOLOMITI
   location: LA VILLA ALTA BADIA, Italy
@@ -3789,7 +3645,55 @@
   utmb_race_id: 159396
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
+- name: WACHAU TRAIL - Wachau101
+  event_name: WACHAU TRAIL
+  location: Aggsbach Dorf, Austria
+  country: Austria
+  country_code: AT
+  start_date: '2027-10-02'
+  website: https://www.wachautrail.at/
+  distance: 101.00 km
+  elevation: 3886 m
+  utmb_category: 100K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 159928
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
+- name: WACHAU TRAIL - Wachau56
+  event_name: WACHAU TRAIL
+  location: Spitz, Austria
+  country: Austria
+  country_code: AT
+  start_date: '2027-10-02'
+  website: https://www.wachautrail.at/
+  distance: 56.00 km
+  elevation: 2526 m
+  utmb_category: 50K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 159932
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
+- name: WACHAU TRAIL - Wachau77
+  event_name: WACHAU TRAIL
+  location: Emmersdorf, Austria
+  country: Austria
+  country_code: AT
+  start_date: '2027-10-02'
+  website: https://www.wachautrail.at/
+  distance: 77.00 km
+  elevation: 3191 m
+  utmb_category: 100K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 159930
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
 - name: 3 TRAIL DEL MONTE CUCCO - Long trail
   event_name: 3 TRAIL DEL MONTE CUCCO
   location: costacciaro, Italy
@@ -3805,7 +3709,7 @@
   utmb_race_id: 158970
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
 - name: 3 TRAIL DEL MONTE CUCCO - Short trail
   event_name: 3 TRAIL DEL MONTE CUCCO
   location: costacciaro, Italy
@@ -3821,4 +3725,52 @@
   utmb_race_id: 158972
   source: UTMB Index Races
   source_url: https://utmb.world/index-races
-  last_checked: '2026-10-12'
+  last_checked: '2026-10-19'
+- name: 'TDM-TRAIL DELLE MURGE  - TDM-TRAIL DELLE MURGE '
+  event_name: 'TDM-TRAIL DELLE MURGE '
+  location: Cassano delle Murge, Italy
+  country: Italy
+  country_code: IT
+  start_date: '2027-10-03'
+  website: https://www.instagram.com/tdm_traildellemurge?igsh=MWVlM2N1emN1MWw5eg==
+  distance: 30.00 km
+  elevation: 660 m
+  utmb_category: 20K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 159770
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
+- name: WUT - Wienerwald Ultra Trail - DOUBLE-WUT
+  event_name: WUT - Wienerwald Ultra Trail
+  location: Purkersdorf, Austria
+  country: Austria
+  country_code: AT
+  start_date: '2027-10-09'
+  website: https://www.wienerwaldtrail.at/english/
+  distance: 100.00 km
+  elevation: 3400 m
+  utmb_category: 100K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 159568
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
+- name: WUT - Wienerwald Ultra Trail - SINGLE-WUT
+  event_name: WUT - Wienerwald Ultra Trail
+  location: Purkersdorf, Austria
+  country: Austria
+  country_code: AT
+  start_date: '2027-10-09'
+  website: https://www.wienerwaldtrail.at/english/
+  distance: 50.00 km
+  elevation: 1700 m
+  utmb_category: 50K
+  utmb_level: qualifier
+  utmb_stones: 0
+  utmb_race_id: 159566
+  source: UTMB Index Races
+  source_url: https://utmb.world/index-races
+  last_checked: '2026-10-19'
